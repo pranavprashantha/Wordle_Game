@@ -5,4 +5,4 @@ O : Correct letter and correct position
   
 X : Correct letter but wrong position
   
-- : Incorrect letter
+"-" : Incorrect letter
