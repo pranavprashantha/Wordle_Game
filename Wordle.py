@@ -1,18 +1,3 @@
-####################
-# By submitting this assignment, I agree to the following:
-# "Aggies do not lie, cheat, or steal, or tolerate those who do."
-# "I have not given or received any unauthorized aid on this assignmenMrT."
-#
-# Name: Michael Urbina
-#Saira Hussain
-#Peter R
-#pranav R 
-# Section: 564
-# Assignment: Lab: Topic 13 TEAM
-# Date: 10 / 17 / 23
-#
-#
-
 import random
 import turtle as MrT
 
